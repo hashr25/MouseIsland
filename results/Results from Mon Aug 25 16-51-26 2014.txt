@@ -1,0 +1,29 @@
+Map name: Full Test Map
+Number of simulations: 2
+Random seed used: 1408999886
+Mouse Escapes: 0
+Mouse Eaten: 0
+Mouse Drowns: 3
+Mouse Starves: 0
+Tile Frequency Map: 
+Each number represents the number of times the mouse visited the tile.
+   0   0   0   2   1   0   0   0   0   0
+   0   0   0   0   1   0   0   0   0   0
+   0   0   0   2   2   0   0   0   0   0
+   0   0   0   1   1   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0
+
+
+
+
+
+
+
+
+
+
+

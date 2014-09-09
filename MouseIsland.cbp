@@ -31,17 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="cat.cpp" />
-		<Unit filename="cat.h" />
-		<Unit filename="enumAndStructs.h" />
-		<Unit filename="includes.h" />
-		<Unit filename="main.cpp" />
-		<Unit filename="mapGen.cpp" />
-		<Unit filename="mapGen.h" />
-		<Unit filename="mouse.cpp" />
-		<Unit filename="mouse.h" />
-		<Unit filename="mover.cpp" />
-		<Unit filename="mover.h" />
+		<Unit filename="Cat.cpp" />
+		<Unit filename="Cat.h" />
+		<Unit filename="GameConfig.h" />
+		<Unit filename="GameController.cpp" />
+		<Unit filename="GameController.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Mouse.cpp" />
+		<Unit filename="Mouse.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

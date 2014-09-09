@@ -1,0 +1,29 @@
+Map name: 
+Number of simulations: 0
+Random seed used: 0
+Mouse Escapes: 0
+Mouse Eaten: 0
+Mouse Drowns: 0
+Mouse Starves: 0
+Tile Frequency Map: 
+Each number represents the number of times the mouse visited the tile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
